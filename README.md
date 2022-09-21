@@ -1,4 +1,4 @@
-# ceid-Goofy-project
+# ceid-project-flex/bison
 
 This is a semesters' team project 
 
